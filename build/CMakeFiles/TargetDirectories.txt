@@ -1,0 +1,3 @@
+/Users/sandeshkadam/Desktop/c++ proj/build/CMakeFiles/KMeansVisualizer.dir
+/Users/sandeshkadam/Desktop/c++ proj/build/CMakeFiles/edit_cache.dir
+/Users/sandeshkadam/Desktop/c++ proj/build/CMakeFiles/rebuild_cache.dir

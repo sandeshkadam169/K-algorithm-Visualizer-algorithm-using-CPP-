@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/sandeshkadam/Desktop/c++ proj/build",
+  "command": "/usr/bin/c++  -I\"/Users/sandeshkadam/Desktop/c++ proj/src\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/KMeansVisualizer.dir/src/main.cpp.o -c \"/Users/sandeshkadam/Desktop/c++ proj/src/main.cpp\"",
+  "file": "/Users/sandeshkadam/Desktop/c++ proj/src/main.cpp",
+  "output": "CMakeFiles/KMeansVisualizer.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/sandeshkadam/Desktop/c++ proj/build",
+  "command": "/usr/bin/c++  -I\"/Users/sandeshkadam/Desktop/c++ proj/src\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/KMeansVisualizer.dir/src/Point.cpp.o -c \"/Users/sandeshkadam/Desktop/c++ proj/src/Point.cpp\"",
+  "file": "/Users/sandeshkadam/Desktop/c++ proj/src/Point.cpp",
+  "output": "CMakeFiles/KMeansVisualizer.dir/src/Point.cpp.o"
+},
+{
+  "directory": "/Users/sandeshkadam/Desktop/c++ proj/build",
+  "command": "/usr/bin/c++  -I\"/Users/sandeshkadam/Desktop/c++ proj/src\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/KMeansVisualizer.dir/src/Centroid.cpp.o -c \"/Users/sandeshkadam/Desktop/c++ proj/src/Centroid.cpp\"",
+  "file": "/Users/sandeshkadam/Desktop/c++ proj/src/Centroid.cpp",
+  "output": "CMakeFiles/KMeansVisualizer.dir/src/Centroid.cpp.o"
+},
+{
+  "directory": "/Users/sandeshkadam/Desktop/c++ proj/build",
+  "command": "/usr/bin/c++  -I\"/Users/sandeshkadam/Desktop/c++ proj/src\" -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/KMeansVisualizer.dir/src/KMeans.cpp.o -c \"/Users/sandeshkadam/Desktop/c++ proj/src/KMeans.cpp\"",
+  "file": "/Users/sandeshkadam/Desktop/c++ proj/src/KMeans.cpp",
+  "output": "CMakeFiles/KMeansVisualizer.dir/src/KMeans.cpp.o"
+}
+]
